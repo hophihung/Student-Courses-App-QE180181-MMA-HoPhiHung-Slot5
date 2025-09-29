@@ -42,7 +42,6 @@ export default function App() {
           component={StudentDetailScreen}
           options={{
             title: 'Student Details',
-            headerBackTitleVisible: false,
           }}
         />
       </Stack.Navigator>
